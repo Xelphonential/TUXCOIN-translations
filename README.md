@@ -1,2 +1,2 @@
 # TUXCOIN-translations
-Here, people from all over the world translate tuxcoin
+Here, people from all over the world translate related to tuxcoin!
